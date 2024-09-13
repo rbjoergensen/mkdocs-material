@@ -238,7 +238,7 @@ without fear of vendor lock-in. Licensed under MIT.
 Material for MkDocs can be installed with `pip`:
 
 ``` sh
-pip install mkdocs-material
+pip3 install mkdocs-material
 ```
 
 Add the following lines to `mkdocs.yml`:
